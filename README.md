@@ -249,3 +249,8 @@ Backend ███████░░░░░░░ 55%
 *"The best way to predict the future is to build it."*
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suriyaa-CODE/suriyaa-CODE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
