@@ -254,3 +254,8 @@ Backend ███████░░░░░░░ 55%
 <p align="center">
   <img src="https://raw.githubusercontent.com/suriyaa-CODE/suriyaa-CODE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
